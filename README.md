@@ -1,4 +1,4 @@
-#API Overview
+# API Overview
 
 Luckdata google translate api , A simple translate API allows programmatic integration with Google Translate. Same quality result but x100 cheaper. fast and stable. Supported Languages English, Italian, Dutch, German, French, Danish, Chinese (Simplified), Chinese (Traditional), Greek, Japanese, Latin, Belarusian, Czech, Spanish, Laotian, Bulgarian, Thai, Vietnamese, Malay, Burmese, Russian, Portuguese, Mongolian, Farsi, Polish, Filipino, Swedish, Ukrainian, Norwegian, Finnish, Filipino, Icelandic, Hungarian, Javanese, Lithuanian, Hindi, Esperanto, Afrikaans, Hebrew, Maori, Turkish, Malagasy, Irish, Indonesian, Uzbek and 139 other languages.
 
@@ -9,16 +9,16 @@ After subscribing successfully, the system will automatically redirect you to th
 
 Click the test endpoint, and within moments, receive accurate data. You can choose different data formats to view or directly copy the returned JSON data.
 
-#Simple to Operate, Easy to Learn
+# Simple to Operate, Easy to Learn
 
 You don’t need to use complex code. Use our google-translate-api to meet your business needs. All operations are as simple as copy-paste, even for non-technical users.
 
-##Shell
+## Shell
 
  <pre> curl -X GET "https://luckdata.io/api/API_Code/?url=Params"  -H 
   "X-Luckdata-Api-Key":" Your API key" </pre>
 
-##python
+## python
 
 <pre>
   import requests
@@ -36,7 +36,7 @@ You don’t need to use complex code. Use our google-translate-api to meet your 
   )
   print(response.json())
 </pre>
-##Java
+## Java
 
 <pre>
   import java.io.IOException;
