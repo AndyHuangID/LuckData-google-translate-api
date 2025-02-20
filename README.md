@@ -24,7 +24,7 @@ You don’t need to use complex code. Use our google-translate-api to meet your 
   import requests
 
   headers = {
-      'X-Luckdata-Api-Key': 'f4df7698ed833e09934da918bddd9b2a'
+      'X-Luckdata-Api-Key': 'Your API key'
   }
   
   json_data={}
@@ -51,7 +51,7 @@ HttpRequest request = HttpRequest.newBuilder()
     .uri(URI.create("https://luckdata.io/api/google-translate-api/get_09w1"))
     .GET()
     
-    .setHeader("X-Luckdata-Api-Key", "f4df7698ed833e09934da918bddd9b2a")
+    .setHeader("X-Luckdata-Api-Key", "Your API key")
     .build();
 
 HttpResponse<String> response = client.send(request, HttpResponse.BodyHandlers.ofString());
