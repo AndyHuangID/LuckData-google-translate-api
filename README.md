@@ -2,6 +2,8 @@
 
 Luckdata google translate api , A simple translate API allows programmatic integration with Google Translate. Same quality result but x100 cheaper. fast and stable. Supported Languages English, Italian, Dutch, German, French, Danish, Chinese (Simplified), Chinese (Traditional), Greek, Japanese, Latin, Belarusian, Czech, Spanish, Laotian, Bulgarian, Thai, Vietnamese, Malay, Burmese, Russian, Portuguese, Mongolian, Farsi, Polish, Filipino, Swedish, Ukrainian, Norwegian, Finnish, Filipino, Icelandic, Hungarian, Javanese, Lithuanian, Hindi, Esperanto, Afrikaans, Hebrew, Maori, Turkish, Malagasy, Irish, Indonesian, Uzbek and 139 other languages.
 
+Luckdata provides an API with 100 free credits every month. This allows small businesses or individuals with low data requirements to use the API for tasks such as testing and data analysis.
+
 # How to Use LuckData-google-translate-api
 On the details page, click the pricing plan or subscription button to choose the package that suits you best. You can also select our free trial package. Next, visit the Playground page to test our LuckData-google-translate-api online!
 
